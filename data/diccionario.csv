@@ -1,0 +1,44 @@
+item;english;spanish;spanish2
+id;id;id;id
+P1;;1. Megustaría que terminase hoy el confinamiento;1. Megustaría que terminase hoy el confinamiento
+P2;;2. Me gustan las clases virtuales (online);2. Me gustan las clases virtuales (online)
+P3;;3. Me gustan las clases presenciales (en el instituto);3. Me gustan las clases presenciales (en el instituto)
+P4;;4. Prefiero que el profesor cualgue el contenido en lugar de las clases virtuales en directo;4. Prefiero que el profesor cualgue el contenido en lugar de las clases virtuales en directo
+P5;;5. Prefiero las clases virtuales en lugar de las clases presenciales;5. Prefiero las clases virtuales en lugar de las clases presenciales
+P6;I don't understand statistics.;6. Los profesores han resuelto todas mis dudas;6. Los profesores han resuelto todas mis dudas
+P7;I have never been good at mathematics.;7. Los profesores me realizan un seguimiento individual;7. Los profesores me realizan un seguimiento individual
+P8;I slip into a coma whenever I see an equation.;8. Mis profesores me motivan mucho;8. Mis profesores me motivan mucho
+P9;I did badly at mathematics at school.;9. Las tareas estan adaptadas a tiempo y materia;9. Las tareas estan adaptadas a tiempo y materia
+P10;My friends are better at statistics than me.;10. Tengo mucha experiencia previa en clases online;10. Tengo mucha experiencia previa en clases online
+P11;My friends are better at R than I am.;11. Echo mucho de menos interactuar en persona con el profesor;11. Echo mucho de menos interactuar en persona con el profesor
+P12;If I'm good at statistics my friends will think I'm a nerd.;12. No echo para nada de menos a mis compañeros de clase;12. No echo para nada de menos a mis compañeros de clase
+P13;My friends will think I'm stupid for not being able to cope with R. ;13. Durante el confinamiento estoy aprendiendo mucho más académicamente;13. Durante el confinamiento estoy aprendiendo mucho más académicamente
+P14;Everybody looks at me when I use R.;14. Estoy de acuerdo con que todos los alumnos pasen de curso debido al COVID19;14. Estoy de acuerdo con que todos los alumnos pasen de curso debido al COVID19
+P15;I have little experience of computers.;15. Me resulta muy confuso que los profesores usen plataformas diferentes;15. Me resulta muy confuso que los profesores usen plataformas diferentes
+P18;R always crashes when I try to use it.;16. Herramientas usadas durante el confinamiento;18. Tengo mucha experiencia en plataformas de aprendizaje
+P19;I worry that I will cause irreparable damage because of my incompetence with computers.;17. Herramientas usadas antes del confinamiento;19. Tengo mucha experiencia en videoconferencias
+P20;All computers hate me.;18. Tengo mucha experiencia en plataformas de aprendizaje;20. Tengo mucha experiencia usando archivos en red
+P21;Computers have minds of their own and deliberately go wrong whenever I use them.;19. Tengo mucha experiencia en videoconferencias;21. Tengo mucha experiencia usando herramientas ofimáticas
+P22;Computers are useful only for playing games.;20. Tengo mucha experiencia usando archivos en red;22. Tengo mucha experiencia usando chats
+P23;Computers are out to get me.;21. Tengo mucha experiencia usando herramientas ofimáticas;23. Tengo mucha experiencia usando redes sociales
+P24;I can't sleep for thoughts of eigen vectors.;22. Tengo mucha experiencia usando chats;24. Esta semana me he sentido muy estresado
+P25;I wake up under my duvet thinking that I am trapped under a normal distribution.;23. Tengo mucha experiencia usando redes sociales;25. Esta semana me he sentido más estresado que antes del confinamiento
+P26;Standar deviations excite me.;24. Esta semana me he sentido muy estresado;26. Esta semana me he sentido muy motivado
+P27;People try to tell you that R makes statistics easier to understand but it doesn't.;25. Esta semana me he sentido más estresado que antes del confinamiento;27. Esta semana me he sentido más motivado que antes del confinamiento
+P29;I dream that Pearson is attacking me with correlation coefficients.;26. Esta semana me he sentido muy motivado;29. Esta semana he estudiado mucho más que antes del confinamiento
+P30;I weep openly at the mention of central tendency.;27. Esta semana me he sentido más motivado que antes del confinamiento;30. Mis padres me han ayudado con mis deberes esta semana
+P31;Statistics makes me cry.;28. Horas dedicadas al estudio esta semana;31. Esta semana mis padres me han ayudado mucho más que antes del confinamiento
+Curso;;;Curso
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;Curso;;

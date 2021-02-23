@@ -1,0 +1,44 @@
+item;english;spanish;spanish2
+id;id;id;id
+P1;;1. Megustaría que terminase hoy el confinamiento;1. Megustaría que terminase hoy el confinamiento
+P2;;2. Me gustan las clases virtuales (online);2. Estoy de acuerdo con que todos los alumnos pasen de curso debido al COVID19
+P3;;3. Me gustan las clases presenciales (en el instituto);3. Me gustan las clases virtuales (online)
+P4;;4. Prefiero que el profesor cualgue el contenido en lugar de las clases virtuales en directo;4. Me gustan las clases presenciales (en el instituto)
+P5;;5. Prefiero las clases virtuales en lugar de las clases presenciales;5. Echo mucho de menos interactuar en persona con mis alumnos
+P6;I don't understand statistics.;6. Los profesores han resuelto todas mis dudas;6. Prefiero las clases virtuales en lugar de las clases presenciales
+P7;I have never been good at mathematics.;7. Los profesores me realizan un seguimiento individual;7. Estoy resolviendo todas las dudas de mis alumnos
+P8;I slip into a coma whenever I see an equation.;8. Mis profesores me motivan mucho;8. Estoy realizando un seguimiento individual de todos mis alumnos
+P9;I did badly at mathematics at school.;9. Las tareas estan adaptadas a tiempo y materia;9. Tengo mucha experiencia previa impartiendo clases online
+P10;My friends are better at statistics than me.;10. Tengo mucha experiencia previa en clases online;10. Mis alumnos están aprendiendo mucho más académicamente que cuando iban al instituto
+P11;My friends are better at R than I am.;11. Echo mucho de menos interactuar en persona con el profesor;11. El confinamiento está afectando de forma muy beneficiosa al rendimiento académico de mis alumnos
+P12;If I'm good at statistics my friends will think I'm a nerd.;12. No echo para nada de menos a mis compañeros de clase;12. Pienso que mis estuantes se han sentido muy estresados esta semana
+P13;My friends will think I'm stupid for not being able to cope with R. ;13. Durante el confinamiento estoy aprendiendo mucho más académicamente;13. Pienso que se han sentido más estresados que antes del confinamiento
+P14;Everybody looks at me when I use R.;14. Estoy de acuerdo con que todos los alumnos pasen de curso debido al COVID19;14. Pienso que mis estuantes se han sentido muy motivados para estudiar esta semana
+P15;I have little experience of computers.;15. Me resulta muy confuso que los profesores usen plataformas diferentes;15. Pienso que se han sentido más motivados que antes del confinamiento
+P17;R always crashes when I try to use it.;16. Herramientas usadas durante el confinamiento;17. Esta semana he dedicado más tiempo a la docencia que antes del confinamiento
+P18;I worry that I will cause irreparable damage because of my incompetence with computers.;17. Herramientas usadas antes del confinamiento;18. Esta semana me he sentido muy estresado
+P19;All computers hate me.;18. Tengo mucha experiencia en plataformas de aprendizaje;19. Esta semana me he sentido más estresado que antes del confinamiento
+P20;Computers have minds of their own and deliberately go wrong whenever I use them.;19. Tengo mucha experiencia en videoconferencias;20. Esta semana me he sentido muy motivado para ejercer la docencia
+P21;Computers are useful only for playing games.;20. Tengo mucha experiencia usando archivos en red;21. Esta semana me he sentido más motivado para ejercer la docencia que antes del confinamiento
+P25;Computers are out to get me.;21. Tengo mucha experiencia usando herramientas ofimáticas;25. Soy muy competente en plataformas de aprendizaje
+P26;I can't sleep for thoughts of eigen vectors.;22. Tengo mucha experiencia usando chats;26. Soy muy competente en videoconferencias
+P27;I wake up under my duvet thinking that I am trapped under a normal distribution.;23. Tengo mucha experiencia usando redes sociales;27. Soy muy competente en archivos en red
+P28;Standar deviations excite me.;24. Esta semana me he sentido muy estresado;28. Soy muy competente en herramientas ofimáticas
+P29;People try to tell you that R makes statistics easier to understand but it doesn't.;25. Esta semana me he sentido más estresado que antes del confinamiento;29. Soy muy competente en chats
+P30;I dream that Pearson is attacking me with correlation coefficients.;26. Esta semana me he sentido muy motivado;30. Soy muy competente en redes sociales
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;Curso;;
